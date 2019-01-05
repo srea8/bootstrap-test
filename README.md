@@ -1,2 +1,2 @@
-# bootstrap-test
-For study bootstrap
+# bootstrap-default
+For start bootstrap
